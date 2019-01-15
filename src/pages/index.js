@@ -76,16 +76,6 @@ const IndexPage = () => (
 
   <div className="Spacer"/>
 
-  <a href="https://hemphubapp.com" target="_blank" rel="noopener noreferrer" class="hemphub">
-  <ContentImage
-    title="HempHUB™ App"
-    description="Recently acquired by RushNet, HempHUB™ is a platform aimed at providing access for resalers, farmers, consumers, to sell or discover CBD products. Currently HempHUB™ is under going development."
-    image={require('../images/image-hemphub.png')}
-  />
-  </a>
-
-  <div className="Spacer"/>
-
   {/* <Team /> */}
   <Contact />
 

@@ -13,7 +13,7 @@ const Container = styled.div`
     text-align: center;
 
     display: grid;
-    grid-template-rows: repeat(3, auto);
+    grid-template-rows: repeat(2, auto);
 
     & p {
         color: rgba(255, 255, 255, 0.6);
@@ -49,7 +49,6 @@ const Footer = () => (
             <Link to="#beverages">Beverages</Link>
         </LinkGroup>
         <p>© 2018 RushNet, Inc.</p>
-        <a href="https://westwalltech.com" target="_blank" rel="noopener noreferrer"><h4>Developed by West Wall Technologies, LLC</h4></a>
     </Container>
 )
 

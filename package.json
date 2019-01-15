@@ -26,7 +26,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "@angular/cli": "^7.2.1",
     "prettier": "^1.14.2"
   },
   "repository": {
